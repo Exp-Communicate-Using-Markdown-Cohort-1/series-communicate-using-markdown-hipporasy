@@ -16,3 +16,7 @@ enum EduTailsApi {
 }
 
 ```
+
+- [x] Enum is required
+- [x] Home is for home screen
+- [ ] This item is not complete
